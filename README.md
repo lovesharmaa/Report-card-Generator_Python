@@ -90,4 +90,4 @@ def display_card(name, marks, per, div):
 👨‍💻 Author
 Love Sharma
 LinkedIn: https://www.linkedin.com/in/love-sharma-9aba392ba/
-GitHub: 
+GitHub: https://github.com/lovesharmaa
