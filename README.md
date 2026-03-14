@@ -1,4 +1,4 @@
-#🎓 #Student Grading System & Report Generator 🐍
+**🎓Student Grading System & Report Generator 🐍**
 This repository features a robust Python implementation for managing student academic records and automating the generation of digital report cards. It demonstrates the power of nested data structures and conditional logic, which are essential for developers building scalable management systems or data-processing pipelines.
 🛠️ Tools & Environment
 Language: Python 3.x
