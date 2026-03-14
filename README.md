@@ -1,4 +1,4 @@
-Student Grading System & Report Generator 🐍
+🎓 Student Grading System & Report Generator 🐍
 This repository features a robust Python implementation for managing student academic records and automating the generation of digital report cards. It demonstrates the power of nested data structures and conditional logic, which are essential for developers building scalable management systems or data-processing pipelines.
 🛠️ Tools & Environment
 Language: Python 3.x
@@ -87,3 +87,7 @@ def display_card(name, marks, per, div):
     else:
         print("Better luck next time...")
     print("—" * 50 + "\n")
+📘 Explanation/🎯 Use Case:
+How: Uses formatted print statements to create a clean visual hierarchy in the console.
+Use Case: Useful for Command Line Interfaces (CLIs) where generating clear logs or summary tables is required for DevOps or SysAdmin tasks.
+Would you like me to refactor this code into a Class-based (Object-Oriented) structure to make it even more professional?
