@@ -87,7 +87,7 @@ def display_card(name, marks, per, div):
     else:
         print("Better luck next time...")
     print("—" * 50 + "\n")
-📘 Explanation/🎯 Use Case:
-How: Uses formatted print statements to create a clean visual hierarchy in the console.
-Use Case: Useful for Command Line Interfaces (CLIs) where generating clear logs or summary tables is required for DevOps or SysAdmin tasks.
-Would you like me to refactor this code into a Class-based (Object-Oriented) structure to make it even more professional?
+👨‍💻 Author
+Love Sharma
+LinkedIn: https://www.linkedin.com/in/love-sharma-9aba392ba/
+GitHub: 
